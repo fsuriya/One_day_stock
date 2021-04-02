@@ -1,0 +1,71 @@
+{
+    "SET" : {
+        "2020-01-01" : {
+            "open" : 1,
+            "close" : 1,
+            "high" : 1,
+            "low" : 1
+        }
+    },
+
+    "OPEC" : {
+        "2020-01-01" : {
+            "value" : 1
+        }
+    },
+
+    "PTT" : {
+        "2020-01-01" : {
+            "open" : 1,
+            "close" : 1,
+            "high" : 1,
+            "low" : 1,
+            "volume" : 1,
+            "predict" : 1
+        }
+    },
+
+    "SUSCO" : {
+        "2020-01-01" : {
+            "open" : 1,
+            "close" : 1,
+            "high" : 1,
+            "low" : 1,
+            "volume" : 1,
+            "predict" : 1
+        }
+    },
+
+    "TOP" : {
+        "2020-01-01" : {
+            "open" : 1,
+            "close" : 1,
+            "high" : 1,
+            "low" : 1,
+            "volume" : 1,
+            "predict" : 1
+        }
+    },
+
+    "IRPC" : {
+        "2020-01-01" : {
+            "open" : 1,
+            "close" : 1,
+            "high" : 1,
+            "low" : 1,
+            "volume" : 1,
+            "predict" : 1
+        }
+    },
+    
+    "BCP" : {
+        "2020-01-01" : {
+            "open" : 1,
+            "close" : 1,
+            "high" : 1,
+            "low" : 1,
+            "volume" : 1,
+            "predict" : 1
+        }
+    }
+}

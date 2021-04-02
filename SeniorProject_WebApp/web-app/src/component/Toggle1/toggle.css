@@ -1,0 +1,358 @@
+a {
+  color: #371a66;
+  transition: 0.5s;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: #0b6bd3;
+  outline: none;
+  text-decoration: none;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 10px 0;
+  color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0 0 0px 0;
+  padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  nav {
+    width: auto;
+    height: auto;
+    display: flex;
+  }
+  
+  main {
+    margin: 0 auto;
+    font-size: 1.2rem;
+    line-height: 1.1;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .fullscreen-block{
+    background-color: rgb(32, 32, 32);
+    width: 100%;
+    height: 100%;
+  }
+  /*=-----------------Mobile Nav---------------------*/
+  .mobilenav {
+    height: 60px;
+    width: 100%;
+  }
+
+  /*------------------Color Info---------------------*/
+  .up h1 {
+
+  }
+
+  /* -----------------Set section------------------- */
+  .bg-set {
+    background: rgb(104, 103, 102);
+  }
+
+  #Set {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+
+  #Set1 {
+    padding-top: 10px;
+    /* padding-bottom: 20px; */
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+  
+  #Set h1 {
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set h2 {
+    font-weight: 500;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set h3 {
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set h4 {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set .info h3 {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set .info h4 {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+  }
+  
+  #Set .result h4 {
+    color: rgb(27, 233, 37);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set .result1 h4 {
+    color: rgb(255, 25, 25);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set .result2 h4 {
+    color: rgb(255, 251, 6);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set .mb h4 {
+    color: rgb(56, 179, 250);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+
+  #Set1 {
+    /* padding-top: 10px; */
+    margin-top: -10px;
+    /* bottom: -20px; */
+    padding-bottom: -20px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+  
+  #Set1 h1 {
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+  }
+  
+  #Set1 h2 {
+    font-weight: 500;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set1 h3 {
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set1 h4 {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set1 .info h3 {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set1 .info h4 {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+  }
+  
+  #Set1 .result h4 {
+    color: rgb(27, 233, 37);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set1 .result1 h4 {
+    color: rgb(255, 25, 25);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set1 .result2 h4 {
+    color: rgb(255, 251, 6);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #Set1 .mb h4 {
+    color: rgb(56, 179, 250);
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #search h3 {
+    font-weight: 400;
+    font-size: 18px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+  }
+  
+  #search .search {
+    padding-top: 10px;
+    padding-left: 40 px;
+    margin-bottom: -13px;
+  }
+  
+  #search .filter {
+    float: right;
+    display: flex;
+    align-items: center;
+  }
+  
+
+#title {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+#title a {
+ color: aliceblue;
+}
+
+#title th {
+  color: aliceblue;
+}*/
+
+#title td {
+  color: aliceblue;
+} 
+
+/* --------------------------------------------- */
+/* .sidebar {
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  background-color: rgb(150, 149, 148);
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar td{
+  padding: 10px;
+  color: black;
+  width: 150px;
+  border-top: solid black;
+  background-color: rgb(114, 113, 113);
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #888a88;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+} */
+
